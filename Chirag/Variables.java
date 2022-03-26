@@ -7,7 +7,7 @@ public class Variables {
         char c;
         for (char i = 65;i<=90;i++){
             c=i;
-            System.out.println(c);
+            // System.out.println(c);
         }
 
     }
