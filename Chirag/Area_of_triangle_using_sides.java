@@ -1,4 +1,3 @@
-package com.company;
 import java.util.Scanner;
 public class Area_of_triangle_using_sides {
     public static void main(String[] args) {
@@ -15,3 +14,4 @@ public class Area_of_triangle_using_sides {
         System.out.format("Area of triangle is : %.3f Sqm" , area);
     }
 }
+
